@@ -1,0 +1,118 @@
+로고
+massive.
+
+gnb
+Projects Homes Services Careers  Contact us			POL / ENG
+
+메인배너
+Scandinavian
+style design.
+Massive homes
+Number of
+Houses:
+124 
+Contact us
+
+
+갤러리1
+Massive
+construction
+and
+development
+Cracow
+Bluewater
+Houses
+HOUSES FROM $2250 M2
+
+
+갤러리2
+High
+standard
+입섬로렘
+
+
+갤러리3
+Open plan
+living spaces.
+Warszaw
+Garden
+Apartments
+APARTMENTS FROM $1950 M2
+
+
+메인갤러리
+Homes (124)Flats (256)
+All houses
+
+Warszaw
+Private
+Residence
+
+Bellecomde
+Holiday
+House
+
+Single
+Family
+Residence
+
+The
+Enchanted
+Sched
+
+House
+of
+Fluctuations
+
+Cracow
+Old City
+House
+
+
+전체메뉴
+Services
+Houses
+Constructions
+Investments
+Transport
+Machine offer
+Engineering
+
+Massive
+Massive S.A.
+Careers
+Development
+
+Homes
+Nadwislanska 11
+Miczkiewicza
+
+Office
+Media
+Press info
+Contact us
+
+
+하단 로고
+massive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+컨텐츠 영역 1170
+메인배너 사진 먼저 맞춰 만들어놓고 나중에 왼쪽만 늘리기
+하단 갤러리는 여백까지 한 세트로 계산해서 만들기
+6등분하면 320이므로 300은 이미지 사이즈고 20이 여백
+푸터영역 까만박스도 다 만들고나서 나중에 오른쪽만 늘리기
